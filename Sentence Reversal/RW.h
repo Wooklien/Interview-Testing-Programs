@@ -1,5 +1,4 @@
 /* Quoc Lien.
-*  Bungie Programming Test.
 *  Reverse Words - Reverses the words in the sentence.
 *  10/18/2014
 */
