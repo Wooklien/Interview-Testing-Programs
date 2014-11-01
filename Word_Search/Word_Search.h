@@ -1,5 +1,4 @@
 /* Quoc Lien.
-*  Bungie Programming Test.
 *  Boggle Word Search Function.
 *  10/18/2014
 */
