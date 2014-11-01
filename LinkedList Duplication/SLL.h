@@ -1,5 +1,4 @@
 /* Quoc Lien.
-*  Bungie Programming Test.
 *  Duplicating a Singly Linkedlist,
 *  with no dependency on original list.
 *  10/18/2014
